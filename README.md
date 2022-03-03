@@ -1,7 +1,7 @@
 ## Projeto Movie Cards Library
 
 Primeiro projeto do módulo de Front-end do curso de desenvolvimento web da Trybe. \
-No bloco desse projeto somos introduzidos ao React e a intenção desse trabalho é praticar alguns de seus conceitos básicos: 
+No bloco desse projeto somos introduzidos ao React e aqui praticamos alguns de seus conceitos básicos: 
 componentes, props e componentização de páginas.
 
 **Objetivo do projeto**
