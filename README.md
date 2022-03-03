@@ -6,7 +6,7 @@ componentes, props e componentização de páginas.
 
 **Objetivo do projeto**
 
-Criar uma biblioteca de cartões de filmes utilizando React. A página deverá possuir um cabeçalho e uma lista de cartões. \
+Criar uma biblioteca de cartões de filmes utilizando React. A página deverá possuir um cabeçalho e uma lista de cartões.
 Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação.
 
 **Principais habilidades desenvolvidas nesse trabalho:**
