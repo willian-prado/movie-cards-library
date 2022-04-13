@@ -1,6 +1,9 @@
 ## Projeto Movie Cards Library
 
-Primeiro projeto do módulo de Front-end do curso de desenvolvimento web da Trybe. \
+> Primeiro projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+
+**Contexto**
+
 No bloco desse projeto somos introduzidos ao React e aqui praticamos alguns de seus conceitos básicos: 
 componentes, props e componentização de páginas.
 
@@ -22,9 +25,16 @@ Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinop
   - Utilizar **PropTypes** para checar o tipo de uma prop no uso de um componente
   - Utilizar **PropTypes** para garantir a presença de props obrigatórias no uso de um componente
 
+**Tecnologias utilizadas**
+
+- <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" align="center" height="35"/> - HTML</a> 
+- <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" align="center" height="35"/> - CSS</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/> - JavaScript</a>
+- <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" align="center" height="35"/> - React</a> 
+
 ---
 
-### Lista de requisitos propostos:
+### Lista de requisitos propostos pela Trybe:
 
 #### Obrigatórios
 
