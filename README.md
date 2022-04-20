@@ -1,6 +1,6 @@
 ## Projeto Movie Cards Library
 
-> Primeiro projeto do módulo de Front-end do curso de desenvolvimento web da Trybe.
+> Primeiro projeto do módulo de Front-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -9,10 +9,10 @@ componentes, props e componentização de páginas.
 
 **Objetivo do projeto**
 
-Criar uma biblioteca de cartões de filmes utilizando React. A página deverá possuir um cabeçalho e uma lista de cartões.
+Criar uma biblioteca de cartões de filmes utilizando React. A página deve possuir um cabeçalho e uma lista de cartões.
 Cada cartão representa um filme e possui uma imagem, título, subtítulo, sinopse e avaliação.
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
   - Inicializar um projeto em **React**
   - Utilizar JSX no **React**
@@ -105,3 +105,8 @@ O componente `<App />` deve renderizar um componente `<MovieList />`, passando c
 **17 - Adicione PropTypes a todos os componentes**
 
 Todos os componentes que recebem props devem ter suas proptypes corretamente declaradas. O ESLint checa automaticamente declaração de proptypes.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
+
